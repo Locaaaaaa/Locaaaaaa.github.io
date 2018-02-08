@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 2465910357@qq.com
 description: "Every failure is leading towards success."
 keyword: "Loca , Loca Blog, 洛卡的博客, liujia,刘佳, iOS, Apple, iPhone"
-url: "http://Locaaaaaa.github.io"          # your host, for absolute URL
+url: "http://locaaaaaa.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Locaaaaaa/Locaaaaaa.github.io.git" # you code repository
+github_repo: "https://github.com/locaaaaaa/locaaaaaa.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
